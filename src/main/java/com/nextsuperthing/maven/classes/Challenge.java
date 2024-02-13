@@ -19,7 +19,7 @@ class Challenge {
 
         // Ask the user to enter a sorted array of whole numbers
         System.out.print("Enter sorted array of whole numbers (space-separated, asending order): ");
-
+        System.out.print("Enter sorted array of whole numbers (space-separated, asending order): ");
         // Keep reading until enter pressed
         String inputArray = scanner.nextLine();
 
